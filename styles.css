@@ -1,0 +1,35 @@
+h2 {
+  margin-bottom: 0px;
+}
+ul {
+  margin-top: 0px;
+}
+
+body {
+  margin: 0;
+  background: #f4f5ff;
+}
+
+.main-container {
+  background: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  height: 40px;
+  width: 40px;
+}
